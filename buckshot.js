@@ -31,5 +31,5 @@ document.getElementById("clear").addEventListener("click", function() {
     document.getElementById("blue-shells").value = "";
 
     document.getElementById("live-odds").innerHTML = "";
-    document.getElementById("output").style.display = "none"; // Hide the output container
+    document.getElementById("output").style.display = "none"; 
 });
