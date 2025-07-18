@@ -137,3 +137,11 @@ fieldset {
        max-height: 300px;
         padding-top: 50px;
     }
+    main {
+    text-align: left;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 4px solid black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
